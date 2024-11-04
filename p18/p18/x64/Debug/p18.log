@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\User\Desktop\C_hw_1104\p18\main.cpp(5,6): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\User\Desktop\C_hw_1104\p18\main.cpp(14,14): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  p18.vcxproj -> C:\Users\User\Desktop\C_hw_1104\p18\x64\Debug\p18.exe
